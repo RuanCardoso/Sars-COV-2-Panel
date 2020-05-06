@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VSProjs\\Global Sars-COV-2\\Global Sars-COV-2\\Global Sars-COV-2.csproj": {}
+  },
+  "projects": {
+    "D:\\VSProjs\\Global Sars-COV-2\\Global Sars-COV-2\\Global Sars-COV-2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VSProjs\\Global Sars-COV-2\\Global Sars-COV-2\\Global Sars-COV-2.csproj",
+        "projectName": "Global Sars-COV-2",
+        "projectPath": "D:\\VSProjs\\Global Sars-COV-2\\Global Sars-COV-2\\Global Sars-COV-2.csproj",
+        "packagesPath": "C:\\Users\\Ruan Cardoso\\.nuget\\packages\\",
+        "outputPath": "D:\\VSProjs\\Global Sars-COV-2\\Global Sars-COV-2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ruan Cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.23, )"
+            },
+            "LiveCharts.Wpf": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "MahApps.Metro": {
+              "target": "Package",
+              "version": "[1.6.5, )"
+            },
+            "MahApps.Metro.IconPacks": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[1.2.4, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MaterialDesignThemes.MahApps": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

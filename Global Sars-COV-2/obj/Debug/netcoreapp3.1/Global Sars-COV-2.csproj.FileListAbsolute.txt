@@ -1,0 +1,53 @@
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\Global Sars-COV-2.exe
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\Global Sars-COV-2.deps.json
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\Global Sars-COV-2.runtimeconfig.json
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\Global Sars-COV-2.runtimeconfig.dev.json
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\Global Sars-COV-2.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\Global Sars-COV-2.pdb
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\ControlzEx.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Core.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Entypo.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Ionicons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.JamIcons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Material.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Microns.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Modern.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Octicons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Typicons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Unicons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Zondicons.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\Global Sars-COV-2.csprojAssemblyReference.cache
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\App.g.cs
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\Global Sars-COV-2_MarkupCompile.cache
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\Global Sars-COV-2_MarkupCompile.lref
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\App.baml
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\Global Sars-COV-2.g.resources
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\Global Sars-COV-2.AssemblyInfoInputs.cache
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\Global Sars-COV-2.AssemblyInfo.cs
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\Global Sars-COV-2.csproj.CopyComplete
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\Global Sars-COV-2.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\obj\Debug\netcoreapp3.1\Global Sars-COV-2.pdb
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\LiveCharts.dll
+D:\VSProjs\Global Sars-COV-2\Global Sars-COV-2\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll

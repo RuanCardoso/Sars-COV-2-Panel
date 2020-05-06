@@ -1,0 +1,74 @@
+﻿<Controls:MetroWindow
+	xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Global_Sars_COV_2"
+		xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+	xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf" x:Class="Global_Sars_COV_2.MainWindow"
+		mc:Ignorable="d"
+	    GlowBrush="Black"
+        BorderThickness="0"
+	    WindowStyle="SingleBorderWindow"
+        Title="Global Sars-COV-2" Height="423" Width="616" WindowStartupLocation="CenterScreen" Background="White" ResizeMode="NoResize">
+	<Grid>
+		<materialDesign:Card x:Name="cardinfor" HorizontalAlignment="Left" Margin="10,2,0,0" VerticalAlignment="Top" Height="185" Width="319" BorderBrush="White" Background="White">
+			<Grid>
+				<ComboBox HorizontalAlignment="Center" Width="299" Margin="0,58,0,0" VerticalAlignment="Top" BorderBrush="#4C000000" Background="#05000000" BorderThickness="1,1,1,1" Padding="6,6,6,6" SelectedIndex="0" SelectionChanged="ComboBox_SelectionChanged">
+					<ComboBoxItem x:Name="global" Content="Global"/>
+					<ComboBoxItem x:Name="brasil" Content="Brasil"/>
+					<ComboBoxItem x:Name="eua" Content="EUA"/>
+					<Separator/>
+					<ComboBoxItem Content="BR- São Paulo"/>
+					<ComboBoxItem Content="BR - Rio de Janeiro"/>
+					<ComboBoxItem Content="BR - Pará"/>
+				</ComboBox>
+				<Label Content="Coronavírus (COVID-19)" HorizontalAlignment="Center" Margin="0,5,0,0" VerticalAlignment="Top" Width="255" Height="39" FontSize="20" FontWeight="SemiBold" FontFamily="Global Sans Serif"/>
+				<Label x:Name="separator" Content="_______________________________________________________________________________________________________________________________________________________________________" HorizontalAlignment="Center" Margin="0,25,0,0" VerticalAlignment="Top" Foreground="#4C000000" Width="328" FlowDirection="LeftToRight"/>
+				<Label x:Name="confirmados" Content="Confirmados" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top" FontWeight="Light"/>
+				<Label x:Name="separator1" Content="_____________________" HorizontalAlignment="Left" Margin="77,120,0,0" VerticalAlignment="Top" FontSize="14" RenderTransformOrigin="0.5,0.5" Foreground="#4C000000">
+					<Label.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</Label.RenderTransform>
+				</Label>
+				<Label x:Name="separator1_Copy" Content="_____________________" HorizontalAlignment="Left" Margin="177,120,0,0" VerticalAlignment="Top" FontSize="14" RenderTransformOrigin="0.5,0.5" Foreground="#4C000000">
+					<Label.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</Label.RenderTransform>
+				</Label>
+				<Label x:Name="recuperados" Content="Recuperados" HorizontalAlignment="Left" Margin="111,92,0,0" VerticalAlignment="Top" FontWeight="Light"/>
+				<Label x:Name="Mortos" Content="Mortos" HorizontalAlignment="Left" Margin="211,92,0,0" VerticalAlignment="Top" FontWeight="Light"/>
+				<Label x:Name="fonte" Content="Fonte: Google" HorizontalAlignment="Left" Margin="2,161,0,0" VerticalAlignment="Top" FontWeight="SemiBold" FontStyle="Italic"/>
+				<Label x:Name="totalConf" Content="Carregando..." HorizontalAlignment="Left" Margin="10,124,0,0" VerticalAlignment="Top" FontWeight="SemiBold" FontSize="14"/>
+				<Label x:Name="totalRec" Content="Carregando..." HorizontalAlignment="Left" Margin="111,124,0,0" VerticalAlignment="Top" FontWeight="SemiBold" FontSize="14"/>
+				<Label x:Name="totalMortos" Content="Carregando..." HorizontalAlignment="Left" Margin="211,124,0,0" VerticalAlignment="Top" FontWeight="SemiBold" FontSize="14" RenderTransformOrigin="0.497,0.678"/>
+			</Grid>
+		</materialDesign:Card>
+		<Button x:Name="close" Content="X" HorizontalAlignment="Left" Margin="602,-28,0,0" VerticalAlignment="Top" Width="12" Height="13" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Padding="0,0,0,0" FontSize="10" Click="close_Click" Background="Red" BorderBrush="Red"/>
+		<materialDesign:Card HorizontalAlignment="Left" Margin="337,2,0,0" VerticalAlignment="Top" Height="371" Width="272" Background="White" BorderBrush="White" BorderThickness="0,0,0,0">
+			<TextBlock x:Name="sobre" HorizontalAlignment="Left" Margin="10,10,0,0" Text="............." TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.237,0.629"/>
+		</materialDesign:Card>
+		<lvc:CartesianChart x:Name="chart" Series="{Binding SeriesCollection}" LegendLocation="Bottom" Margin="10,192,287,10">
+			<lvc:CartesianChart.AxisX>
+				<lvc:Axis Title="Salesman" LabelFormatter="{Binding Formatter}"></lvc:Axis>
+			</lvc:CartesianChart.AxisX>
+			<lvc:CartesianChart.AxisY>
+				<lvc:Axis Title="Sold Apps" Labels="{Binding Labels}"></lvc:Axis>
+			</lvc:CartesianChart.AxisY>
+			<lvc:CartesianChart.DataTooltip>
+				<lvc:DefaultTooltip SelectionMode="SharedYValues"></lvc:DefaultTooltip>
+			</lvc:CartesianChart.DataTooltip>
+		</lvc:CartesianChart>
+	</Grid>
+</Controls:MetroWindow>
