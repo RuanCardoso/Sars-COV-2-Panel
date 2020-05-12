@@ -52,7 +52,7 @@ namespace Global_Sars_COV_2
                 {
                   new RowSeries
                   {
-                    Title = "2020-",
+                    Title = "[2020]",
                     Values = c2019
                   }
                 };
